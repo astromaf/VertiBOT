@@ -13,7 +13,7 @@ Made(by)Frutos http://madebyfrutos.wordpress.com/
 
 Based on:
 - VARESANO's Free IMU library. The hard work is done. Fabio, We won't forget you! 
-- http://www.varesano.net/projects/hardware/FreeIMU
+  http://www.varesano.net/projects/hardware/FreeIMU
 - Brett Beauregard. Introducing the Pid.Good PID library and good guide http://goo.gl/QKANE
 - Patrick Olsson.X-firm System Projects. Best, Balancing guide. http://www.x-firm.com/
 - Jason Dorweiler http://www.jddorweiler.appspot.com/electronics.html
@@ -24,4 +24,8 @@ Based on:
 - Shane Colton. A Simple solution for Balance Filter. MIT. June 2007
 - J.A. Shaw. PID Algorithm & Tuning Methods. Rochester,NY.
      
-
+External specific libraries must be used with this code. All of them are open source and can be found easily in its original repositories.
+Thank for the good job done with this libraries. :)
+- Free IMU: http://www.varesano.net/projects/hardware/FreeIMU
+- Pololu serial-Qik (motor diver): https://github.com/pololu/qik-arduino
+- PID library: http://playground.arduino.cc/Code/PIDLibrary
